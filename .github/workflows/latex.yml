@@ -31,5 +31,7 @@ jobs:
           commit_options: '--no-verify --signoff'
           commit_user_name: My GitHub Actions Bot
           commit_author: Author <actions@github.com>
+          # Force push since we are adding a pdf file
+          push_options: '--force'
           status_options: '--untracked-files=no'
           skip_dirty_check: true
