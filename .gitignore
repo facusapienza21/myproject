@@ -38,7 +38,6 @@ Untitled*.ipynb
 *.bbl
 *.blg
 *.log
-*.pdf
 __pycache__
 .pytest_cache
 .ipynb_checkpoints
