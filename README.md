@@ -1,9 +1,8 @@
 ![example workflow](https://github.com/facusapienza21/myproject/actions/workflows/latex.yml/badge.svg)
 
-
 # My Project
 
-Working in the open is the best! 
+The goal of this respository is to serve as a template for scientitic projects that are fully developed in the open. This repository includes all the basic ingredients of a scientific project, including code and writing.
 
 ## Code :computer:
 
