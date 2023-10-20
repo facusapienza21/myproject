@@ -4,6 +4,19 @@
 
 The goal of this respository is to serve as a template for scientitic projects that are fully developed in the open. This repository includes all the basic ingredients of a scientific project, including code and writing.
 
+## Contributors
+
+You can set up the [all-contributors](https://allcontributors.org/) by directly installing the [bot](https://allcontributors.org/docs/en/bot/installation) in this repository and updating the repository information in `.all-contributorsrc`. 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Code :computer:
 
 We provide code for the different simulations and examples we exhibit in the project. Most of this code is provided in the Julia programming language, given that many of the libraries to perform sensitivity analysis are supported there, plus Julia solvers for differential equations are currently the state of the art in scientific computing.
